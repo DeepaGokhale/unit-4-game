@@ -1,0 +1,45 @@
+#random-pick{
+    height: 250px;
+    padding-top: 75px;
+    background-color: pink;
+}
+
+.wins-losses{
+    background-color: lightblue;
+    height: 250px;
+    padding-top: 20px;
+    padding-left: 50px;    
+}
+
+.imgGems{
+    width: 150px;
+    height: 150px;
+    margin:0px;
+}
+
+.imgGems:first-child{
+    margin-left:auto;
+}
+
+.imgGems:last-child{
+    margin-right: auto;
+}
+
+#score{
+    background-color: cornflowerblue;
+    height: 100px;
+    float: left;    
+    color: #ffffff;
+}
+
+#scoreVal{
+    background-color: cornflowerblue;
+    height: 100px;
+    float: left;
+    padding: 20px;
+    color: #ffffff;
+}
+
+h3{
+    padding-top: 30px;
+}
