@@ -1,11 +1,11 @@
 #random-pick{
     height: 250px;
     padding-top: 75px;
-    background-color: pink;
+    background-color: rgb(242, 211, 243);
 }
 
 .wins-losses{
-    background-color: lightblue;
+    background-color: rgb(190, 144, 243);
     height: 250px;
     padding-top: 20px;
     padding-left: 50px;    
@@ -26,14 +26,15 @@
 }
 
 #score{
-    background-color: cornflowerblue;
+    background-color: rgb(126, 242, 250);
     height: 100px;
     float: left;    
     color: #ffffff;
+    margin: 20px;
 }
 
 #scoreVal{
-    background-color: cornflowerblue;
+    background-color: rgb(126, 242, 250);
     height: 100px;
     float: left;
     padding: 20px;
